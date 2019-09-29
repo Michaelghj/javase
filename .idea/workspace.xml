@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f62a6a78-2220-4840-a607-12a1d5548716" name="Default Changelist" comment="">
+      <change afterPath="G:/Arithmetic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/Power.java" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/PrintToMaxOfNDigits01.java" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/PrintToMaxOfNDigits02.java" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/ReverseList.java" afterDir="false" />
+      <change afterPath="G:/Sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="G:/Sort/src/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="G:/Sort/src/sort/InsterionSort.java" afterDir="false" />
+      <change afterPath="G:/Sort/src/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="G:/cakeshop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="G:/cakeshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Article.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaArticle.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaCoursrFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonArticle.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Test.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Video.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/FEVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/PythonVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/PythonVideoFatory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/Test.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/Video.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/VideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/javaVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/Test.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/Video.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/VideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/javaVideo.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/controller/UserController.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/pojo/Logs.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/pojo/Users.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/service/GuestService.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/service/imp/GuestServiceImp.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/webapp/WEB-INF/app-servlet.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/webapp/WEB-INF/page/regist.jsp" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/webapp/WEB-INF/page/success.jsp" afterDir="false" />
+      <change afterPath="G:/js-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-cli-demo/vue-cli-demo.iml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/vue-demo.iml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello2.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello3.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello4.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello5.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello6.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/vue-demo.iml" afterDir="false" />
+      <change afterPath="G:/leyou/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="G:/leyou/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/leyou/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/ly-gateway.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/src/main/java/com/leyou/gateway/lyGateway.java" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-interface/ly-item-interface.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-interface/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-service/ly-item-service.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/lyregistry.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/src/main/java/com/leyou/LyRegistry.java" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/src/main/resources/appliction.yml" afterDir="false" />
+      <change afterPath="G:/redis-demo/lib/commons-pool2-2.3.jar" afterDir="false" />
+      <change afterPath="G:/redis-demo/lib/jedis-2.7.0.jar" afterDir="false" />
+      <change afterPath="G:/resume/img/p.jpg" afterDir="false" />
+      <change afterPath="G:/resume/index.html" afterDir="false" />
+      <change afterPath="G:/resume/resume.html" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-common/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-mapper/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-pojo/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-service/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/resource/jdbc.properties" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/binaryTree/OrderRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/linkedlist/PrintCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/stackAndQueue/MyStack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/AutoConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/CharTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/FloatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/IntegerValTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/NarrowConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/PrimitiveAndString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/RandomStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/UndersocreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ArrayInRam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/Gobang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/Nun2Rmb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/PrimitiveArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ReferenceArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/TwoDimesionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/demo/Fin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/demo/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/demo/getValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/chapter1/TryConcurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Singleton.java" afterDir="false" />
+      <change beforePath="G:/b.txt" beforeDir="false" />
+      <change beforePath="G:/readme.txt" beforeDir="false" />
+      <change beforePath="G:/test.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/DogTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="G:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/IntegerValTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/CharTest01.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/FloatTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/UndersocreTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/AutoConversion.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/PrimitiveAndString.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/NarrowConversion.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/RandomStr.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/demo/Print.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/demo/fin.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/demo/Fin.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes01/MathTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/demo/getValue.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest01.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/ArrayInRam.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/PrimitiveArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/ReferenceArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/TwoDimesionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/ArraysTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/Nun2Rmb.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes03/Gobang.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/DogTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="965" />
+    <option name="y" value="10" />
+    <option name="width" value="975" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ghj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ghj" type="462c0819:PsiDirectoryNode" />
+              <item name="codes04" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReturnThis">
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.DogTest" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gobang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes03.Gobang" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nun2Rmb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes03.Nun2Rmb" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.ReturnThis" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThisInConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.ThisInConstructor" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReturnThis" />
+        <item itemvalue="Application.ThisInConstructor" />
+        <item itemvalue="Application.DogTest" />
+        <item itemvalue="Application.Gobang" />
+        <item itemvalue="Application.Nun2Rmb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f62a6a78-2220-4840-a607-12a1d5548716" name="Default Changelist" comment="" />
+      <created>1569544100405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569544100405</updated>
+      <workItem from="1569544104072" duration="21804000" />
+      <workItem from="1569625063608" duration="7412000" />
+      <workItem from="1569756387186" duration="4978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33577713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/IntegerValTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/CharTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/FloatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/UndersocreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/AutoConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/PrimitiveAndString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/NarrowConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/com/ghj/code.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/RandomStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/demo/getValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/ArrayInRam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/PrimitiveArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/TwoDimesionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/ArraysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/Nun2Rmb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/demo/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/demo/Fin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes01/MathTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/Gobang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/ReferenceArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/DogTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javase</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
