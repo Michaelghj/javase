@@ -135,39 +135,17 @@
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/binaryTree/OrderRecur.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/linkedlist/PrintCommonPart.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/stackAndQueue/MyStack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/AutoConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/CharTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/FloatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/IntegerValTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/MathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/NarrowConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/PrimitiveAndString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/RandomStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes01/UndersocreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ArrayInRam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/Gobang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/Nun2Rmb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/PrimitiveArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/ReferenceArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes03/TwoDimesionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/demo/Fin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/demo/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/demo/getValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/Overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/OverloadVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes04/ReferenceTransferTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/chapter1/TryConcurrency.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Demo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Singleton.java" afterDir="false" />
       <change beforePath="G:/b.txt" beforeDir="false" />
       <change beforePath="G:/readme.txt" beforeDir="false" />
       <change beforePath="G:/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -203,10 +181,10 @@
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -215,17 +193,66 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="190">
               <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            <state relative-caret-position="209">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/PrimitiveTransferTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ReferenceTransferTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/Recursive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/Overload.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/OverloadVarargs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -241,7 +268,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="G:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -275,14 +302,10 @@
         <option value="$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/PrimitiveTransferTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/ReferenceTransferTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/Recursive.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes04/Overload.java" />
       </list>
     </option>
   </component>
@@ -298,8 +321,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,9 +350,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
@@ -360,9 +384,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReturnThis">
-    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.DogTest" />
+  <component name="RunManager" selected="Application.Overload">
+    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.Overload" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
@@ -374,12 +398,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gobang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ghj.codes03.Gobang" />
+    <configuration name="PrimitiveTransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.PrimitiveTransferTest" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ghj.codes03.*" />
+          <option name="PATTERN" value="com.ghj.codes04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,12 +411,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nun2Rmb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ghj.codes03.Nun2Rmb" />
+    <configuration name="Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.Recursive" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ghj.codes03.*" />
+          <option name="PATTERN" value="com.ghj.codes04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceTransferTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.ReferenceTransferTest" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,26 +450,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisInConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ghj.codes04.ThisInConstructor" />
-      <module name="javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ghj.codes04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Overload" />
+        <item itemvalue="Application.Recursive" />
+        <item itemvalue="Application.ReferenceTransferTest" />
+        <item itemvalue="Application.PrimitiveTransferTest" />
         <item itemvalue="Application.ReturnThis" />
-        <item itemvalue="Application.ThisInConstructor" />
-        <item itemvalue="Application.DogTest" />
-        <item itemvalue="Application.Gobang" />
-        <item itemvalue="Application.Nun2Rmb" />
       </list>
     </recent_temporary>
   </component>
@@ -448,18 +472,18 @@
       <updated>1569544100405</updated>
       <workItem from="1569544104072" duration="21804000" />
       <workItem from="1569625063608" duration="7412000" />
-      <workItem from="1569756387186" duration="4978000" />
+      <workItem from="1569756387186" duration="6838000" />
+      <workItem from="1570058038968" duration="2945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34194000" />
+    <option name="totallyTimeSpent" value="38999000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -468,7 +492,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33577713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33577713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,8 +500,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -674,28 +698,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ThisInConstructor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/PrimitiveTransferTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ReferenceTransferTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/StaticAccessNostatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/ReturnThis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        <state relative-caret-position="209">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/Overload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes04/OverloadVarargs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
