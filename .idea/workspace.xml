@@ -127,6 +127,14 @@
       <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
       <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
       <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/JavaNIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/out/production/JavaNIO/com/ghj/nio/TestBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNIO/src/com/ghj/nio/TestBuffer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/InsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/MergeSort.java" afterDir="false" />
@@ -139,10 +147,7 @@
       <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalLocalVariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalVariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes06/code04/StringJoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/chapter1/TryConcurrency.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Demo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Singleton.java" afterDir="false" />
@@ -150,8 +155,6 @@
       <change beforePath="G:/readme.txt" beforeDir="false" />
       <change beforePath="G:/test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javase/com/ghj/codes06/code03/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javase/com/ghj/codes06/code03/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javase/com/ghj/codes06/code03/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javase/com/ghj/codes06/code03/SingletonTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,22 +169,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/PrintObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/ToStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="475">
               <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
             </state>
           </provider>
@@ -190,8 +180,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/EqualTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="304">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -199,7 +189,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/StringCompareTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="95">
               <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
             </state>
           </provider>
@@ -217,7 +207,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code03/SingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="133">
               <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
             </state>
           </provider>
@@ -226,12 +216,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalVariableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="361">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -239,7 +225,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalLocalVariableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="76">
               <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
@@ -248,11 +234,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalReferenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="551">
               <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
               <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
                 <element signature="e#347#348#0" expanded="true" />
                 <element signature="e#373#374#0" expanded="true" />
                 <element signature="e#408#409#0" expanded="true" />
@@ -262,11 +246,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/StringJoinTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="228">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -287,7 +283,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ghj/demo/fin.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/demo/Fin.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes01/MathTest.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/demo/getValue.java" />
@@ -338,6 +333,7 @@
         <option value="$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalLocalVariableTest.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalReferenceTest.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes06/code04/StringJoinTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java" />
       </list>
     </option>
   </component>
@@ -353,6 +349,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -376,21 +373,12 @@
               <item name="javase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
-              <item name="codes06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ghj" type="462c0819:PsiDirectoryNode" />
-              <item name="codes06" type="462c0819:PsiDirectoryNode" />
-              <item name="code04" type="462c0819:PsiDirectoryNode" />
+              <item name="codes15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -407,6 +395,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -429,7 +418,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringJoinTest">
+  <component name="RunManager" selected="Application.FileTest">
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes15.code01.FileTest" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes15.code01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FinalReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ghj.codes06.code04.FinalReferenceTest" />
       <module name="javase" />
@@ -449,19 +451,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ghj.codes06.code04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverridderEqualsError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ghj.codes06.code02.OverridderEqualsError" />
-      <module name="javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ghj.codes06.code02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -497,11 +486,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileTest" />
         <item itemvalue="Application.StringJoinTest" />
         <item itemvalue="Application.FinalReferenceTest" />
         <item itemvalue="Application.FinalVariableTest" />
         <item itemvalue="Application.SingletonTest" />
-        <item itemvalue="Application.OverridderEqualsError" />
       </list>
     </recent_temporary>
   </component>
@@ -523,18 +512,20 @@
       <workItem from="1570096108762" duration="886000" />
       <workItem from="1570140476876" duration="10327000" />
       <workItem from="1570178196268" duration="669000" />
-      <workItem from="1570242831035" duration="14829000" />
+      <workItem from="1570242831035" duration="17098000" />
+      <workItem from="1570328727611" duration="241000" />
+      <workItem from="1570578744071" duration="1800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72097000" />
+    <option name="totallyTimeSpent" value="76407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2774799" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14008042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -577,17 +568,16 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -906,45 +896,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/P0rintObject.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/P0rintObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code03.java" />
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/PrintObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="228">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/ToStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="475">
           <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/EqualTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="304">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/StringCompareTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="95">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -957,36 +939,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code03/SingletonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="133">
           <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalVariableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="361">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalLocalVariableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="76">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="551">
           <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
             <element signature="e#373#374#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
@@ -997,8 +973,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code04/StringJoinTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
