@@ -147,14 +147,13 @@
       <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/codes15/code01/FilenameFilterTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/chapter1/TryConcurrency.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Demo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Singleton.java" afterDir="false" />
       <change beforePath="G:/b.txt" beforeDir="false" />
       <change beforePath="G:/readme.txt" beforeDir="false" />
       <change beforePath="G:/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,15 +167,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/ToStringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes06/code02/EqualTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -255,14 +245,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
+            <state relative-caret-position="179">
               <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FilenameFilterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -283,7 +282,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ghj/demo/Fin.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes01/MathTest.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/demo/getValue.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest.java" />
@@ -334,6 +332,7 @@
         <option value="$PROJECT_DIR$/src/com/ghj/codes06/code04/FinalReferenceTest.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes06/code04/StringJoinTest.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/codes15/code01/FilenameFilterTest.java" />
       </list>
     </option>
   </component>
@@ -374,6 +373,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
               <item name="codes15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ghj" type="462c0819:PsiDirectoryNode" />
+              <item name="codes15" type="462c0819:PsiDirectoryNode" />
+              <item name="code01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -418,9 +425,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileTest">
+  <component name="RunManager" selected="Application.FilenameFilterTest">
     <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ghj.codes15.code01.FileTest" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.codes15.code01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilenameFilterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.codes15.code01.FilenameFilterTest" />
       <module name="javase" />
       <extension name="coverage">
         <pattern>
@@ -458,19 +478,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ghj.codes06.code03.SingletonTest" />
-      <module name="javase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ghj.codes06.code03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringJoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ghj.codes06.code04.StringJoinTest" />
       <module name="javase" />
@@ -486,11 +493,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilenameFilterTest" />
         <item itemvalue="Application.FileTest" />
         <item itemvalue="Application.StringJoinTest" />
         <item itemvalue="Application.FinalReferenceTest" />
         <item itemvalue="Application.FinalVariableTest" />
-        <item itemvalue="Application.SingletonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -514,18 +521,18 @@
       <workItem from="1570178196268" duration="669000" />
       <workItem from="1570242831035" duration="17098000" />
       <workItem from="1570328727611" duration="241000" />
-      <workItem from="1570578744071" duration="1800000" />
+      <workItem from="1570578744071" duration="2207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76407000" />
+    <option name="totallyTimeSpent" value="76814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14008042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14008042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +541,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31671554" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31671554" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -542,7 +549,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32991204" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -568,23 +575,10 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes02/DoWhileTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes03/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -980,11 +974,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FileTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
+        <state relative-caret-position="179">
           <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/codes15/code01/FilenameFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
